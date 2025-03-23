@@ -1,0 +1,8 @@
+streamlit
+whisper
+requests
+python-dotenv
+torch
+transformers
+pydub
+ffmpeg-python
